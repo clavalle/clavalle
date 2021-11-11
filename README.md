@@ -19,38 +19,38 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Airflow" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/airflow.svg" />
-<img align="left" alt="AWS Kinesis" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/aws-kinesis.svg" />
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/aws.svg" />
-<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/bash.svg" />
-<img align="left" alt="CentOS" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/centos-icon.svg" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/docker-icon.svg" />
-<img align="left" alt="Eclipse" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/eclipse.svg" />
-<img align="left" alt="Ethereum" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/ethereum.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Google Data Studio" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/google-data-studio.svg" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/graphql.svg" />
-<img align="left" alt="Hibernate" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/hibernate.svg" />
-<img align="left" alt="IntelliJ" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/intellij-idea.svg" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/java.svg" />
-<img align="left" alt="JHipster" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/jhipster.svg" />
-<img align="left" alt="Julia" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/julia.svg" />
-<img align="left" alt="Jupyter" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/jupyter.svg" />
-<img align="left" alt="Kafka" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/kafka-icon.svg" />
-<img align="left" alt="Kong" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/kong.svg" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/linux-tux.svg" />
-<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/lua.svg" />
-<img align="left" alt="Numpy" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/numpy-icon.svg" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/python.svg" />
-<img align="left" alt="PyTorch" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pytorch.svg" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/postgresql.svg" />
-<img align="left" alt="Spark" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/spark.svg" />
-<img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/spring.svg" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/terminal.svg" />
-<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/tensorflow.svg" />
-<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/vim.svg" />
+<img align="left" alt="Airflow" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/airflow.svg" />  
+<img align="left" alt="AWS Kinesis" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/aws-kinesis.svg" />  
+<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/aws.svg" />  
+<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/bash.svg" />  
+<img align="left" alt="CentOS" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/centos-icon.svg" />  
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/docker-icon.svg" />  
+<img align="left" alt="Eclipse" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/eclipse.svg" />  
+<img align="left" alt="Ethereum" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/ethereum.svg" />  
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />  
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />  
+<img align="left" alt="Google Data Studio" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/google-data-studio.svg" />  
+<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/graphql.svg" />  
+<img align="left" alt="Hibernate" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/hibernate.svg" />  
+<img align="left" alt="IntelliJ" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/intellij-idea.svg" />  
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/java.svg" />  
+<img align="left" alt="JHipster" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/jhipster.svg" />  
+<img align="left" alt="Julia" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/julia.svg" />  
+<img align="left" alt="Jupyter" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/jupyter.svg" />  
+<img align="left" alt="Kafka" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/kafka-icon.svg" />  
+<img align="left" alt="Kong" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/kong.svg" />  
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/linux-tux.svg" />  
+<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/lua.svg" />  
+<img align="left" alt="Numpy" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/numpy-icon.svg" />  
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/python.svg" />  
+<img align="left" alt="PyTorch" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pytorch.svg" />  
+<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/postgresql.svg" />  
+<img align="left" alt="Spark" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/spark.svg" />  
+<img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/spring.svg" />  
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />  
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/terminal.svg" />  
+<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/tensorflow.svg" />  
+<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/vim.svg" />  
 
 <br />
 <br />
