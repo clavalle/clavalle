@@ -55,14 +55,6 @@
 <br />
 <br />
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://craiglavalle.com)
-
 ---
 
 <!-- <details>
@@ -81,7 +73,6 @@
 
 </details> -->
 
-[website]: https://craiglavalle.com
-[twitter]: https://twitter.com/CraigLaValle
-[youtube]: https://youtube.com/channel/UCprGZNy-FSXzIyM1EV555HQ
+
+[twitter]: https://x.com/CraigLaValle
 [linkedin]: https://www.linkedin.com/in/craig-lavalle/
