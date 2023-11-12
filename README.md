@@ -4,9 +4,9 @@
 
 ## I lead talented engineers in the data realm and sometimes I still get to code!!
 
-- 🌱 I’m currently interested in learning Rust (I'm a sucker for different languages even though I'm not entirely sure what I'll use it for)
+- 🌱 I’m currently interested in making AI a partner to humanity and vice versa
 - 👯 I’m looking to advise and mentor folks that are just getting into data-centric devlopment and engineering or building software products in that space
-- 🥅 2022 Goals: Contribute more to Open Source projects and the data community
+- 🥅 2024 Goals: Stay tuned!
 - ⚡ Fun fact: I love to play strategy boardgames and play music
 
 ### Connect with me:
